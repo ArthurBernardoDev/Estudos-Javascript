@@ -4,6 +4,7 @@ function getInteiroAleatorioEntre(min, max) {
 }
 
 let opcao = 0
+k
 
 do { // opcao diferente de -1
     opcao = getInteiroAleatorioEntre(-1, 10)
